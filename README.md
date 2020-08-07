@@ -1,0 +1,2 @@
+# mnist-digit-classification
+It's a repository discuss about the digit classification using cnn with mnist dataset. Repo includes three subtopics that talk about the convolution operation using different packages like python (numpy/scipy) and tensorflow. Image classification is done using simple multi-layer perceptron and convolutional neural network. version of the tensorflow used in this notebook is 1.8
